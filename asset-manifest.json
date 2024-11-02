@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lipi-birthday-wishes/static/css/main.96276156.css",
+    "main.css": "/lipi-birthday-wishes/static/css/main.ebf6a11b.css",
     "main.js": "/lipi-birthday-wishes/static/js/main.d8166db6.js",
     "static/js/453.e1d635a9.chunk.js": "/lipi-birthday-wishes/static/js/453.e1d635a9.chunk.js",
     "static/media/bis3.png": "/lipi-birthday-wishes/static/media/bis3.1a2159116bfe88b19828.png",
@@ -11,12 +11,12 @@
     "static/media/bis2.jpg": "/lipi-birthday-wishes/static/media/bis2.1970148b7c9651f5ec8a.jpg",
     "static/media/logo.svg": "/lipi-birthday-wishes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lipi-birthday-wishes/index.html",
-    "main.96276156.css.map": "/lipi-birthday-wishes/static/css/main.96276156.css.map",
+    "main.ebf6a11b.css.map": "/lipi-birthday-wishes/static/css/main.ebf6a11b.css.map",
     "main.d8166db6.js.map": "/lipi-birthday-wishes/static/js/main.d8166db6.js.map",
     "453.e1d635a9.chunk.js.map": "/lipi-birthday-wishes/static/js/453.e1d635a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96276156.css",
+    "static/css/main.ebf6a11b.css",
     "static/js/main.d8166db6.js"
   ]
 }
